@@ -327,6 +327,19 @@ public class TestController : Controller
 ---
 
 # 🔵 2. Scoped Lifetime
+important point hai below wala
+🧪 तुम्हारे case का exact explanation
+
+👉 तुमने 2 APIs बनाई:
+
+✔ API 1:
+Service1 = X
+Service2 = X
+✔ same instance (because same request)
+✔ API 2:
+Service1 = Y
+Service2 = Y
+✔ same instance (new request)
 
 ## 📌 Definition
 
