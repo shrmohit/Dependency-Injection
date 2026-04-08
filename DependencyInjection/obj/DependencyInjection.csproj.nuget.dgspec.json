@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\DependencyInjection\\DependencyInjection.csproj": {}
+    "E:\\Projects\\Dependency-Injection\\DependencyInjection\\DependencyInjection.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\DependencyInjection\\DependencyInjection.csproj": {
+    "E:\\Projects\\Dependency-Injection\\DependencyInjection\\DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\DependencyInjection\\DependencyInjection.csproj",
+        "projectUniqueName": "E:\\Projects\\Dependency-Injection\\DependencyInjection\\DependencyInjection.csproj",
         "projectName": "DependencyInjection",
-        "projectPath": "E:\\Projects\\DependencyInjection\\DependencyInjection.csproj",
+        "projectPath": "E:\\Projects\\Dependency-Injection\\DependencyInjection\\DependencyInjection.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\DependencyInjection\\obj\\",
+        "outputPath": "E:\\Projects\\Dependency-Injection\\DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

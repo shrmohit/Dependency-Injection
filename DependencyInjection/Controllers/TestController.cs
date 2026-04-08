@@ -26,6 +26,14 @@ namespace DependencyInjection.Controllers
                 Service2 = _service2.GetId()
             });
         }
-
+        [HttpGet("1")]
+        public IActionResult Get2()
+        {
+            return Ok(new
+            {
+                Service1 = _service1.GetId(),
+                Service2 = _service2.GetId()
+            });
+        }
     }
 }

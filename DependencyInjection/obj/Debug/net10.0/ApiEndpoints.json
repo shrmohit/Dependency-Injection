@@ -10,6 +10,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "DependencyInjection.Controllers.TestController",
+    "Method": "Get2",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DependencyInjection.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
